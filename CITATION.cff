@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jiménez Botero"
+  given-names: "Simón Felipe"
+- family-names: "Andrade Hernández"
+  given-names: "Thomas"
+title: "Laboratorio Intermedio"
+version: 1.0
+date-released: 2024-08-23
+url: "https://github.com/ThomasAnkhe/Laboratorio_Intermedio"
